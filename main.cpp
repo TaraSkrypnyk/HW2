@@ -4,12 +4,6 @@
 #include <cmath>
 using namespace std;
 
-#include <iostream>
-#include <iomanip>
-#include <ctime>
-#include <cmath>
-using namespace std;
-using namespace std;
 
 int main() {
     double sell, max = 0, num = 0, rez;
